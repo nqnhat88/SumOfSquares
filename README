@@ -1,0 +1,6 @@
+SumOfSqures!
+
+#   This program calculates a sum of squares of some integers     #
+#   excepting negatives.                                          #
+#   Defaults: File input.txt at same source folder will be read   # 
+#   and output the result to file output.txt.                     #
