@@ -1,0 +1,20 @@
+
+#   This program calculates a sum of squares of some integers    #
+#   excepting negatives.                                         #
+#   Defaults: File input.txt at same source folder will be read  # 
+#   and output the result to file output.txt.                    #
+
+
+------------------------------------------------------------------
+Go to SumOfSquare folder
+
+For compilation purpose. Make sure that you are at the program folder
+
+Build:
+   Make all
+Clean
+   Make clean
+
+You will find the executable file at same path
+
+And execute the program by command ./SumOfSquares and enjoy
